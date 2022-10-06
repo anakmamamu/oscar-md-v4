@@ -61,7 +61,7 @@ global.ppulsa = '085242489614' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/jarotoffc' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281376349712' //Nomor Bot
+global.nomorbot = '6287840229797' //Nomor Bot
 global.nomorown = '6285242489614' //Nomor Owner
 global.namebot = 'OSCAR-MULTIDEVICE'  //Nama Bot
 global.nameown = 'Oscar Offc'  // Nama Owner
@@ -69,7 +69,7 @@ global.nameown = 'Oscar Offc'  // Nama Owner
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628085242489614', '❦ Oscar 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285242489614', '❦ Oscar 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
